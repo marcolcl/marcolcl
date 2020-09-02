@@ -3,11 +3,11 @@
      Marco &nbsp;
   </span>
 
-  <a href="https://github.com/marcolcl" target="_blank">
+  <a href="https://github.com/marcolcl">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="16" width="16" />
   </a>
   
-  <a href="mailto:marco.lui@bowtie.com.hk" target="_blank">
+  <a href="mailto:marco.lui@bowtie.com.hk">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="16" width="16" />
   </a>
 </h2>
@@ -19,7 +19,7 @@
 
 📝 I build web applications with Django and React
 
-🔭 I’m currently working for [@bowtie-ins](https://github.com/bowtie-ins) - the first virtural insurer in Hong Kong
+🔭 I’m currently working for [@bowtie-ins](https://github.com/bowtie-ins) - the first virtual insurer in Hong Kong
 
 💬 Feel free to ask me anything!
 
