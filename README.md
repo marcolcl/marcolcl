@@ -15,20 +15,37 @@
 
 ### Hello 🧑🏼‍💻
 
-🇭🇰 I'm Marco from Hong Kong
+🇭🇰 Hongkonger
 
-📝 I build web applications with Django and React
+🔭 Software Engineer [@bowtie-ins](https://github.com/bowtie-ins) - the first virtual insurer in Hong Kong
 
-🔭 I’m currently working for [@bowtie-ins](https://github.com/bowtie-ins) - the first virtual insurer in Hong Kong
+📝 Tech Stack
+- 🐍 Server-side
+  - Python
+  - Django
+  - Django Rest Framework
+  - Celery
+  - SQL (PostgreSQL)
+- ⚛️ Client-side
+  - JavaScript/TypeScript
+  - React
+  - React Apollo
+  - Material UI
+- 🔌 3rd party services integrated
+  - Sentry, Stripe, Twilio, Mailgun, MailChimp, Boto3
+- 🗝️ Good old packages/languages tried before
+  - Selenium, VBA, MATLAB, R, AngularJS, jQuery
+- 🧰 Cannot live without these devtools
+  - Django debug toolbar, Django factory boy, pre-commit, Danger JS
 
 💬 Feel free to ask me anything!
 
 
 <p align="center">
-  <img
+  <!-- <img
     alt="marco's github stats"
     src="https://github-readme-stats.vercel.app/api?username=marcolcl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs"
-  />
+  /> -->
   <img
     alt="favourite language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolcl&layout=compact&hide_border=true&hide_title=true"
