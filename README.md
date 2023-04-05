@@ -41,7 +41,7 @@
 💬 Feel free to ask me anything!
 
 
-<p align="center">
+<p align="left">
   <!-- <img
     alt="marco's github stats"
     src="https://github-readme-stats.vercel.app/api?username=marcolcl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs"
